@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="8dp">
+    <FrameLayout
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="128dp">
+        <ImageView
+            android:id="@+id/image_view_trailer"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+        <ImageView
+            android:id="@+id/image_view_play"
+            android:layout_margin="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:src="@android:drawable/ic_media_play"/>
+
+    </FrameLayout>
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_weight="1"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center_vertical"
+        android:padding="8dp">
+        <TextView
+            android:id="@+id/text_view_trailer_name"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="Trailer" />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/source"/>
+            <TextView
+                android:id="@+id/text_view_trailer_site"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                tools:text="YouTube"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/quality"/>
+        <TextView
+            android:id="@+id/text_view_trailer_quality"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="1080"/>
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

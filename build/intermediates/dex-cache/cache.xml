@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/vidit/Documents/AndroidStudioProjects/PopularMovies/app/build/intermediates/exploded-aar/com.android.support/design/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="/Users/vidit/Documents/AndroidStudioProjects/PopularMovies/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.4.0_92032ecd06af2326549d701bcd2fbd012066bf6c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/vidit/Documents/AndroidStudioProjects/PopularMovies/app/build/intermediates/exploded-aar/net.simonvt.schematic/schematic/0.6.7/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="88db662ca217bc59d6c0524b7aaddda43e313fbc">
+        <dex dex="/Users/vidit/Documents/AndroidStudioProjects/PopularMovies/app/build/intermediates/transforms/dex/debug/folders/1000/10/net.simonvt.schematic-schematic-0.6.7_52f0d8ef0a45776d1f4a6abd2d102244dee6f54c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/vidit/Documents/AndroidStudioProjects/PopularMovies/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2cf44413397705f7943b9004de792f93b0c24d04">
+        <dex dex="/Users/vidit/Documents/AndroidStudioProjects/PopularMovies/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b4aad0dd9124e1a3491abe7feafd4b766b629553/classes.dex" />
+    </item>
+    <item
+        jar="/Users/vidit/Documents/AndroidStudioProjects/PopularMovies/app/build/intermediates/exploded-aar/com.android.support/palette-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="51518e8e8f97c314a243d9def0ded91d385b6a1e">
+        <dex dex="/Users/vidit/Documents/AndroidStudioProjects/PopularMovies/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-palette-v7-23.4.0_748d5d2c576e6cc4387b6d74480c2120c2c91594/classes.dex" />
+    </item>
+    <item
+        jar="/Users/vidit/Documents/AndroidStudioProjects/PopularMovies/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/vidit/Documents/AndroidStudioProjects/PopularMovies/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_2057bfccad21d297e507b0c17f01e7201f2848c5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/vidit/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/vidit/Documents/AndroidStudioProjects/PopularMovies/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_44e582830547d12ffb1b1c7c73cb58dc862cffd2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/vidit/Documents/AndroidStudioProjects/PopularMovies/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="/Users/vidit/Documents/AndroidStudioProjects/PopularMovies/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.4.0_782858c32f6a9905a64914e32911d2409d3aa65f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/vidit/Documents/AndroidStudioProjects/PopularMovies/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/vidit/Documents/AndroidStudioProjects/PopularMovies/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_ec891fc1ec6a0cd889e62c88997a973d178d1e7f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/vidit/.gradle/caches/modules-2/files-2.1/net.simonvt.schematic/schematic-annotations/0.6.7/f89059aa6f64d746a38e3992515cb823cc52ffce/schematic-annotations-0.6.7.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="f89059aa6f64d746a38e3992515cb823cc52ffce">
+        <dex dex="/Users/vidit/Documents/AndroidStudioProjects/PopularMovies/app/build/intermediates/transforms/dex/debug/folders/1000/10/schematic-annotations-0.6.7_cf31c09ebd57c704534cc7b0d93789efa333f709/classes.dex" />
+    </item>
+    <item
+        jar="/Users/vidit/Documents/AndroidStudioProjects/PopularMovies/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/vidit/Documents/AndroidStudioProjects/PopularMovies/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_3ae397e765e5e62e491943b7ca08cc36d1ac4812/classes.dex" />
+    </item>
+    <item
+        jar="/Users/vidit/Documents/AndroidStudioProjects/PopularMovies/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/vidit/Documents/AndroidStudioProjects/PopularMovies/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_57e10fdf259365ad6d136bda1b68ae832f1a4e88/classes.dex" />
+    </item>
+    <item
+        jar="/Users/vidit/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/vidit/Documents/AndroidStudioProjects/PopularMovies/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_6974df144ae4c35040005b271a5c34541a0e6f73/classes.dex" />
+    </item>
+    <item
+        jar="/Users/vidit/Documents/AndroidStudioProjects/PopularMovies/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/vidit/Documents/AndroidStudioProjects/PopularMovies/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_3fbdc9220492d7f8301b0d787b6de76598221328/classes.dex" />
+    </item>
+    <item
+        jar="/Users/vidit/Documents/AndroidStudioProjects/PopularMovies/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/Users/vidit/Documents/AndroidStudioProjects/PopularMovies/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.4.0_c9d8564f3725dd6b019e60cc84098ab679cb7a79/classes.dex" />
+    </item>
+    <item
+        jar="/Users/vidit/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.19/a8f23f65fc1e522ee4a1a697ee569901a46741fa/library-1.0.19.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="a8f23f65fc1e522ee4a1a697ee569901a46741fa">
+        <dex dex="/Users/vidit/Documents/AndroidStudioProjects/PopularMovies/app/build/intermediates/transforms/dex/debug/folders/1000/10/library-1.0.19_525404685ad2035d834389288e4c8f050047eca5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/vidit/Documents/AndroidStudioProjects/PopularMovies/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="9fa192667f71cda691a2927242e3e0f37a9b95ad">
+        <dex dex="/Users/vidit/Documents/AndroidStudioProjects/PopularMovies/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_2cf9ca3867b7410b669847f1f26da00477d5597c/classes.dex" />
+    </item>
+
+</items>

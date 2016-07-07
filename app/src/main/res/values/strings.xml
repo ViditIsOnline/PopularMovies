@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="action_settings">Settings</string>
+    <string name="sort_by">Sort By</string>
+    <string name="sort_by_popularity">Sort By Popularity</string>
+    <string name="sort_by_release">Sort By Release</string>
+    <string name="sort_by_Rating">Sort By Rating</string>
+    <string name="movie_poster">Movie Poster</string>
+    <string name="source">Source :\u0020</string>
+    <string name="quality">Quality :\u0020</string>
+    <string name="plot">Plot</string>
+    <string name="trailers">Trailers</string>
+    <string name="reviews">Reviews</string>
+    <string name="videos">Videos</string>
+    <string name="popular">Popular</string>
+    <string name="latest">Latest</string>
+    <string name="high_rated">High Rated</string>
+    <string name="favourites">Favourites</string>
+    <string name="select_movie">Select a movie from left pane.</string>
+</resources>
